@@ -1,0 +1,50 @@
+---
+title: "Final_Project"
+author: "An Zhang"
+date: "2018/10/19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+I will use the `Air Pollution` data set which Scrapy from the national real-time city air quality release platform in the China National Environmental Monitoring Center website. The spatiol and temporal distribution of PM2.5 and ozone concentrations will be analyzed. 
+
+* Raw Date Clean:
+
+
+
+```{r }
+
+  
+```
+
+
+* Monthly statistics from daily data:
+
+
+```{r }
+
+  
+```
+
+
+* Compare of PM2.5 and ozone concentrations change:
+
+
+```{r }
+
+  
+```
+
+
+* Visulization:
+
+
+```{r }
+
+  
+```
